@@ -17,14 +17,14 @@ ReVanced Patches:
 **App Versions:**  
 Tasker: 6.0.9  
 Nova-Launcher: 8.0.3  
-Backdrops: 4.52  
 Citra: bed6a4f12  
-Twitch: 14.6.1  
-YouTube-Music (arm64-v8a): 5.48.52  
-Instagram: 276.0.0.0.54  
-Twitter: 9.71.0-release.0  
+Backdrops: 4.52  
 Reddit: 2023.09.1  
+YouTube-Music (arm64-v8a): 5.48.52  
+Twitter: 9.71.0-release.0  
+Twitch: 14.6.1  
 YouTube: 18.10.37  
+Instagram: 276.0.0.0.54  
 YouTube-Music (arm-v7a): 5.48.52  
 
 **App Hashes:**  
